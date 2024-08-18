@@ -1,14 +1,14 @@
 # ToDo-List-Application
 CODING SAMURAI INTERNSHIP TASK-1
 
-Overview-
+**Overview-**
 
 This Java-based To-Do List application is designed to help users efficiently manage their tasks. The application provides a user-friendly interface for adding, editing, marking tasks as complete, viewing all tasks, and deleting tasks from the list.
 
 This project incorporates a web interface using JSP and CSS, while the backend functionalities are powered by Spring Boot, Hibernate, and MySQL for seamless data management.
 
 
-Features-
+**Features-**
 
 	•	Add Tasks: Users can add new tasks to their list.
 	•	Edit Tasks: Users can update existing tasks to reflect changes or corrections.
@@ -17,7 +17,7 @@ Features-
 	•	Delete Tasks: Users can remove tasks from the list when they are no longer needed.
 
 
-Technologies Used-
+**Technologies Used-**
 
 	•	Java: Core logic for managing tasks.
 	•	JSP: Provides the web interface for user interaction.
@@ -27,9 +27,9 @@ Technologies Used-
 	•	MySQL: Stores the task data and related information.
 
 
-Getting Started
+**Getting Started**
 
-Prerequisites-
+**Prerequisites-**
 
 	•	Java JDK 8 or higher
 	•	Apache Maven
@@ -38,7 +38,7 @@ Prerequisites-
 	•	IDE (Eclipse, IntelliJ IDEA, etc.)
 
 
-Installation-
+**Installation-**
 
 1. Clone the repository: 
      git clone https://github.com/your-username/todo-list-application.git
@@ -56,7 +56,7 @@ Installation-
   	2. Access the application via http://localhost:8080/viewToDoList.
 
 
-Usage
+**Usage**
 
 Web Interface-
 
@@ -67,12 +67,12 @@ Web Interface-
 5.	Delete a Task: Click on the “Delete” button on the navbar to view the list of tasks and remove it from the list.
 
 
-Contributing-
+**Contributing-**
 
 Contributions are welcome! Feel free to fork this repository, make your changes, and submit a pull request. For major changes, it’s recommended to open an issue first to discuss the changes you’d like to implement.
 
 
-Contact-
+**Contact-**
 
 For any questions or suggestions, please contact on my email - shoyabkhan7509548835@example.com.
 
